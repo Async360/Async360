@@ -17,3 +17,5 @@
 
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Async360)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Async360&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
