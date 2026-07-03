@@ -1,21 +1,23 @@
+<div align="center">
+
 [![Header](https://github.com/Async360/Async360/blob/main/assets/Pre-comp_5_AdobeExpress.gif)](https://github.com/Async360)
 
-## I'm beginner Developer
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=460&lines=Hi+there%2C+I'm+Async+360+%F0%9F%91%8B;Building+things%2C+one+commit+at+a+time" alt="Typing SVG" />
 
-### Languages and Tools:
+<p>
+  <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/-YouTube-15161B?style=for-the-badge&logo=YouTube&logoColor=FF0000" /></a>
+  <a href="https://t.me/Async360"><img src="https://img.shields.io/badge/-Telegram-15161B?style=for-the-badge&logo=telegram&logoColor=27A0D9" /></a>
+</p>
 
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=6296CC)
-![NodeJS](https://img.shields.io/badge/-VIM-090909?style=for-the-badge&logo=vim&logoColor=6296CC)
+<br/>
 
-### Follow Me:
+<img src="https://github-stats-extended.vercel.app/api?username=Async360&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=Async360&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
 
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Async360)
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Async360&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Async360&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Async360&label=Profile+Views&color=7aa2f7&style=flat" alt="Profile views" />
+
+</div>
