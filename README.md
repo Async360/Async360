@@ -6,7 +6,6 @@
 
 <p>
   <a href="https://t.me/Async360"><img src="https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=27A0D9" /></a>
-  <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/-YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
 </p>
 
 </div>
@@ -66,12 +65,25 @@ red teaming // penetration testing // reverse engineering
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Async360&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=FF2E88&text_color=c9d1d9" height="165" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=Async360&hide_border=true&background=0D1117&ring=39FF88&fire=FF2E88&currStreakLabel=39FF88&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" height="165" alt="GitHub streak" />
+<img src="https://raw.githubusercontent.com/Async360/Async360/assets/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile details" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Async360&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF88&text_color=c9d1d9" height="165" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/Async360/Async360/assets/profile-summary-card-output/github_dark/3-stats.svg" height="165" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/Async360/Async360/assets/profile/streak.svg" height="165" alt="GitHub streak" />
+<img src="https://raw.githubusercontent.com/Async360/Async360/assets/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="165" alt="Top languages" />
 
 </div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Async360/Async360/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Async360/Async360/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Async360/Async360/output/github-contribution-grid-snake.gif" width="100%" />
+</picture>
+
+</div>
+
+> stats, streak, and the snake above are generated in this repo by [`.github/workflows`](.github/workflows) on a schedule — not fetched from a shared public demo instance, so they don't go down when someone else's free tier does.
 
 ---
 
@@ -79,9 +91,17 @@ red teaming // penetration testing // reverse engineering
 
 ```
 > ls ./featured
-empty — nothing pinned yet, building something worth shipping first.
-check back soon.
 ```
+
+| repo | what it does |
+| --- | --- |
+| [shellguard-hooks](https://github.com/Async360/shellguard-hooks) | pre-execution guard that screens shell commands from AI coding agents for obfuscated/risky patterns before they run |
+| [keyscope](https://github.com/Async360/keyscope) | local secret broker for AI agent subprocesses — keychain-backed, exec-scoped env injection instead of full-shell secret export |
+| [harmask](https://github.com/Async360/harmask) | client-side HAR diff tool that redacts secrets before anything renders |
+| [ci-cost-summary](https://github.com/Async360/ci-cost-summary) | posts a per-job GitHub Actions cost estimate as a workflow run summary, no SaaS, no signup |
+| [traceback-lens](https://github.com/Async360/traceback-lens) | client-side stack trace deobfuscator — paste a minified trace + source map, nothing leaves the browser |
+
+more on [github.com/Async360?tab=repositories](https://github.com/Async360?tab=repositories)
 
 ---
 
