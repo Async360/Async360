@@ -18,7 +18,7 @@ jobs:
           ref: assets
 
       - name: Generate streak stats card
-        uses: DenverCoder1/github-readme-streak-stats@main
+        uses: DenverCoder1/github-readme-streak-stats@a15ea3616bbfb93936eba475b3de9da1c8900633 # main
         with:
           options: >-
             user=${{ github.repository_owner }}&theme=dark&hide_border=true&background=0D1117&ring=39FF88&fire=FF2E88&currStreakLabel=39FF88
